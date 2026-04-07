@@ -1,0 +1,34 @@
+
+
+
+  
+  
+  h1{
+    text-align: center;
+  }
+  .cart-bar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: white;
+    padding: 10px;
+    border-top: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+}
+
+.checkout-btn {
+    background:palevioletred;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+}
+   body { background-color: #fff0f5; }
+        .cute-card { border-radius: 30px; border: none; box-shadow: 0 10px 25px rgba(255, 133, 179, 0.2); }
+        .cute-input { border-radius: 10px; border: 2px solid #ffdae9; }
+        .cute-input:focus { border-color: #ff85b3; box-shadow: none; }
+        .btn-cute { background-color: #ff85b3; color: white; border-radius: 10px; font-weight: 600; transition: 0.3s; }
+        .btn-cute:hover { background-color: #ff66a3; color: white; transform: scale(1.02); }
+
+        
+
